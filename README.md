@@ -1,5 +1,6 @@
 #  Quiz
-#Tecnologias Utilizadas
+
+## Tecnologias Utilizadas
 -HTML
 -CSS
 -JavaScript
